@@ -203,8 +203,11 @@ github.com/grpc-ecosystem/grpc-gateway v1.5.0/go.mod h1:RSKVYQBd5MCa4OVpNdGskqpg
 github.com/grpc-ecosystem/grpc-gateway v1.8.5/go.mod h1:vNeuVxBJEsws4ogUvrchl83t/GYV9WGTSLVdBhOQFDY=
 github.com/h2non/parth v0.0.0-20190131123155-b4df798d6542/go.mod h1:Ow0tF8D4Kplbc8s8sSb3V2oUCygFHVp8gC3Dn6U4MNI=
 github.com/hanlray/shippy v0.0.0-20200525014719-66142ea8faa9 h1:xb4dPha5WGIZgVaDDogKbD/WjLe9dsH6ch1XrBqz2Vc=
+github.com/hanlray/shippy v0.0.0-20200525033841-48f731ac9858 h1:47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=
 github.com/hanlray/shippy/consignment-service v0.0.0-20200525014719-66142ea8faa9 h1:QgJogBIUUNZY8ZrImHG2uoNC9IY4B4n5LU/cXywnk7I=
 github.com/hanlray/shippy/consignment-service v0.0.0-20200525014719-66142ea8faa9/go.mod h1:QJX/sT6+Xpkg7J3WbNcUTqtnc9m08XTvUwPMatQL+dU=
+github.com/hanlray/shippy/consignment-service v0.0.0-20200525033841-48f731ac9858 h1:kz2ESTEJfc6LwV4pp0vMscHlrFT/o2Yl7BDYYrGLWrY=
+github.com/hanlray/shippy/consignment-service v0.0.0-20200525033841-48f731ac9858/go.mod h1:QJX/sT6+Xpkg7J3WbNcUTqtnc9m08XTvUwPMatQL+dU=
 github.com/hashicorp/errwrap v0.0.0-20141028054710-7554cd9344ce/go.mod h1:YH+1FKiLXxHSkmPseP+kNlulaMuP3n2brvKWEqk/Jc4=
 github.com/hashicorp/go-multierror v0.0.0-20161216184304-ed905158d874/go.mod h1:JMRHfdO9jKNzS/+BTlxCjKNQHg/jZAft8U7LloJvN7I=
 github.com/hashicorp/golang-lru v0.5.0/go.mod h1:/m3WP610KZHVQ1SGc6re/UDhFvYD7pJ4Ao+sR/qLZy8=
