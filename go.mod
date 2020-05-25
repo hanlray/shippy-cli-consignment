@@ -7,7 +7,6 @@ require (
 	github.com/coreos/go-systemd v0.0.0-20191104093116-d3cd4ed1dbcf // indirect
 	github.com/go-log/log v0.2.0 // indirect
 	github.com/gogo/protobuf v1.3.1 // indirect
-	github.com/golang/protobuf v1.4.2 // indirect
 	github.com/hanlray/shippy/consignment-service v0.0.0-20200525014719-66142ea8faa9
 	github.com/json-iterator/go v1.1.9 // indirect
 	github.com/lucas-clemente/quic-go v0.15.7 // indirect
@@ -22,5 +21,6 @@ require (
 	golang.org/x/sys v0.0.0-20200523222454-059865788121 // indirect
 	golang.org/x/tools v0.0.0-20200522201501-cb1345f3a375 // indirect
 	google.golang.org/genproto v0.0.0-20200521103424-e9a78aa275b7 // indirect
+	google.golang.org/grpc v1.26.0 // indirect
 	honnef.co/go/tools v0.0.1-2020.1.4 // indirect
 )
